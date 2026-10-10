@@ -15,4 +15,4 @@ mix test
 
 ## Licence
 
-MIT, as the SPDX headers state.
+MIT. See [LICENSE](LICENSE).
